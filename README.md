@@ -123,17 +123,19 @@
 
 ## Details
 
-* Preparation time: 45 minutes
+* Preparation time: 60 minutes
 * Yield: 6 breasts
 
 ## Ingredients
 
-| Ingredient            | Amount    |
-|-----------------------|-----------|
-| Chicken Breasts       | 6 breasts |
-| Flour                 | 1 cup     |
-| Eggs                  | 2 eggs    |
-| Seasoned Breadcrumbs  | 1 cup     |
+| Ingredient                    | Amount    |
+|-------------------------------|-----------|
+| Chicken Breasts               | 6 breasts |
+| Flour                         | 1 cup     |
+| Eggs                          | 2 eggs    |
+| Seasoned Breadcrumbs          | 1 cup     |
+| Pasta Sauce                   | 2 cups    |
+| Shredded Mozzarella Cheese    | 2 cups    |
 
 ## Preparation
 
@@ -152,13 +154,14 @@
    4. Place onto greased baking sheet and drizzle a small amount of oil on top.
 5. Place baking sheet in oven and bake for 10-15 minutes, then flip and bake an additional 10-15 minutes.
 6. Ensure that a meat thermometer indicates an internal temperature of at least 165 degrees.
-7. Serve.
+7. Cover each breast with sauce and mozzarella then bake an additional 5 minutes.
+8. Serve.
 
 # Roasted Potatoes
 
 ## Details
 
-* Preparation time: 30 minutes
+* Preparation time: 30-40 minutes
 * Yield: 4 cups
 
 ## Ingredients
@@ -169,7 +172,7 @@
 | Vegetable Oil     | 2 Tb      |
 | Salt              | 1 tsp     |
 | Black Pepper      | 1/2 tsp   |
-| Dried Rossemary   | 1/2 tsp   |
+| Dried Rosemary    | 1/2 tsp   |
 
 ## Preparation
 
@@ -177,6 +180,42 @@
 
 ## Instructions
 
-1. Quarter potatoes and toss with other ingredients until evenly coated.
-2. Spread potatoes in a large roasting pan and place in preheated oven for 20 minutes, stirring occasionally.
-3. Serve immediately.
+1. Grind rosemary into a fine powder using a spice grinder or mortar and pestle.
+2. Quarter potatoes and toss with other ingredients until evenly coated.
+3. Spread potatoes in a large roasting pan and place in preheated oven for 25-30 minutes, stirring occasionally.
+4. Serve immediately.
+
+# Baked Salmon
+
+## Details
+
+* Preparation time: 40 minutes
+* Yield: 2 fillets
+
+## Ingredients
+
+| Ingredient    | Amount    |
+|---------------|-----------|
+| Salmon Fillet | 2 or more |
+| Lemon         | 1/2       |
+| Mustard       | 1/4 cup   |
+| Dill          | 1/2 tsp   |
+| Olive Oil     | 3 Tb      |
+| Salt          | 1 tsp     |
+| Pepper        | 1/2 tsp   |
+
+## Preparation
+
+* Preheat oven to 400 degrees.
+
+## Instructions
+
+1. Grind dill into a fine powder using a spice grinder or mortar and pestle.
+2. Add olive oil to baking dish, just enough to coat the bottom.
+3. Place salmon fillets in the coated dish skin-side down.
+4. Squeeze lemon over the exposed flesh then salt and pepper.
+5. Lightly coat the salmon fillets in mustard.
+6. Cover dish with aluminum foil and bake for 10 minutes.
+7. Remove aluminum foil and bake uncovered for an additional 15 minutes.
+8. Remove from oven and top with dill.
+9. Serve.
