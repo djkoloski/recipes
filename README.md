@@ -197,7 +197,7 @@
 | Ingredient    | Amount    |
 |---------------|-----------|
 | Salmon Fillet | 2 or more |
-| Lemon         | 1/2       |
+| Lemon         | 1/2 lemon |
 | Mustard       | 1/4 cup   |
 | Dill          | 1/2 tsp   |
 | Olive Oil     | 3 Tb      |
@@ -219,3 +219,120 @@
 7. Remove aluminum foil and bake uncovered for an additional 15 minutes.
 8. Remove from oven and top with dill.
 9. Serve.
+
+# Ham Chowder
+
+## Details
+
+* Preparation time: 90-120 minutes
+* Yield: 4 quarts
+
+## Ingredients
+
+| Ingredient            | Amount            |
+|-----------------------|-------------------|
+| Water                 | 4 cups            |
+| Potatoes              | 4 cups diced      |
+| Carrots               | 1 cup sliced      |
+| Celery                | 1 cup sliced      |
+| Yellow Onion          | 1/2 cup chopped   |
+| Salt                  | 1 tsp             |
+| Pepper                | 1/2 tsp           |
+| Butter                | 1/2 cup           |
+| Flour                 | 1/4 cup           |
+| Milk                  | 2 cups            |
+| Sharp Cheddar Cheese  | 16 oz             |
+| Pepperjack Cheese     | 8 oz              |
+| Smoked Ham            | 4 cups cubed      |
+| Creamed Corn          | 2 16 oz cans      |
+
+## Preparation
+
+* Dice potatoes, slice carrots and celery, chop onion, slice cheese, and cube ham.
+
+## Instructions
+
+1. Combine water, potatoes, carrots, celery, onion, salt, and pepper in a large pot.
+2. Simmer vegetables over medium heat until potatoes are soft when speared with a fork.
+3. Melt butter in a large saucepan over high heat.
+4. Lower heat to medium and mix in flour thoroughly.
+5. Add milk in thirds, waiting for the roux to thicken between additions.
+6. Add cheese and melt completely then remove from heat.
+7. Combine vegetables, cheese sauce, ham, and creamed corn.
+8. Serve.
+
+# Fudge Brownies
+
+## Details
+
+* Preparation time: 45-50 minutes
+* Yield: 24 brownies
+
+## Ingredients
+
+| Ingredient                    | Amount            |
+|-------------------------------|-------------------|
+| Butter                        | 1 cup (2 sticks)  |
+| Baking Chocolate              | 4 oz (4 squares)  |
+| Sugar                         | 2 cups            |
+| Eggs                          | 4 eggs            |
+| Flour                         | 1 cup             |
+| Vanilla Extract               | 1 tsp             |
+| Salt                          | 1/2 tsp           |
+| Chopped Walnuts (optional)    | 2 cups            |
+
+## Preparation
+
+* Preheat oven to 350 degrees.
+* Grease 13" by 9" baking pan with oil or shortening.
+
+## Instructions
+
+1. Add butter and chocolate to a heavy saucepan and melt over low heat with frequent stirring.
+2. When completely melted, remove from heat and allow to cool until warm.
+3. Beat in sugar and eggs until well blended.
+4. Stir in flour, vanilla, salt, and nuts (if any).
+5. Evenly spread batter into baking pan.
+6. Bake for 30-35 minutes.
+7. Ensure that a toothpick or fork inserted into the center comes out clean.
+8. Cool in pan on wire rack then cut into pieces.
+9. Serve.
+
+# Blueberry Slump
+
+## Details
+
+* Preparation time: 35 minutes
+* Yield: 6 servings
+
+## Ingredients
+
+### Blueberry Sauce
+
+| Ingredient    | Amount    |
+|---------------|-----------|
+| Blueberries   | 1 qt      |
+| Sugar         | 1/2 cup   |
+| Butter        | 1 Tb      |
+
+### Dumplings
+
+| Ingredient    | Amount    |
+|---------------|-----------|
+| Flour         | 1 cup     |
+| Sugar         | 1/4 cup   |
+| Salt          | 1/2 tsp   |
+| Baking Powder | 2 tsp     |
+| Butter        | 2 Tb      |
+| Milk          | 1/2 cup   |
+
+## Preparation
+
+* Preheat oven to 350 degrees.
+
+## Instructions
+
+1. Melt butter in microwave then add to blueberries and sugar in an 8"x8" pan.
+2. Mix dumpling ingredients together and spread over top of sauce.
+3. Bake in ovn for 20-30 minutes.
+4. Serve.
