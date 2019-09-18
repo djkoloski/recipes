@@ -336,3 +336,79 @@
 2. Mix dumpling ingredients together and spread over top of sauce.
 3. Bake in ovn for 20-30 minutes.
 4. Serve.
+
+# Baked Potato
+
+## Details
+
+* Preparation time: 100 minutes
+* Yield: 1 potato
+
+## Ingredients
+
+| Ingredient                | Amount    |
+|---------------------------|-----------|
+| Russet Potato             | 1         |
+| Olive Oil                 | 1 tsp     |
+| Salt                      | 1/2 tsp   |
+| Butter                    | 1/2 Tb    |
+| Sour Cream                | 3 Tb      |
+| Shredded Cheddar Cheese   | 1 oz      |
+
+## Preparation
+
+* Preheat oven to 300 degrees.
+
+## Instructions
+
+1. Scrub and dry the potato then place on a baking sheet.
+2. Cover in olive oil and generously salt the top.
+3. Pierce the skin with a knife to make a cross cut on the top.
+4. Bake for 90 minutes or until soft and golden brown.
+5. Remove from oven and complete the cross cut, then lightly mash the insides with a fork.
+6. Add butter to the center then fill with sour cream and top with shredded cheese.
+7. Serve.
+
+# Meatloaf
+
+## Details
+
+* Preparation time: 65 minutes
+* Yield: 6 servings
+
+## Ingredients
+
+### Meatloaf
+
+| Ingredient            | Amount    |
+|-----------------------|-----------|
+| Ground Beef           | 1 1/2 lb  |
+| Bread Crumbs          | 3/4 cup   |
+| Ketchup               | 1/2 cup   |
+| Minced Onion          | 1/2 cup   |
+| Eggs                  | 1 egg     |
+| Worcestershire Sauce  | 1 Tb      |
+| Minced Garlic         | 2 tsp     |
+| Dried Thyme Leaves    | 1 tsp     |
+| Pepper                | 3/4 tsp   |
+| Salt                  | 1/2 tsp   |
+
+### Sauce
+
+| Ingredient    | Amount    |
+|---------------|-----------|
+| Ketchup       | 1/4 cup   |
+
+## Preparation
+
+* Preheat oven to 350 degrees.
+
+## Instructions
+1. Combine meatloaf ingredients in a large bowl, mixing lightly but thoroughly.
+2. Shape mixture into an 8" x 4" loaf on a rack in an aluminum foil-lined broiler pan.
+3. Place on the upper rack of the oven and bake for 35-45 minutes.
+4. Remove from oven and brush sauce onto outside of loaf.
+5. Return to oven and continue baking for 10 minutes.
+6. Ensure that a meat thermometer indicates an internal temperature of at least 160 degrees.
+7. Remove from oven and allow to cool for roughly 10 minutes, then cut into slices.
+8. Serve.
