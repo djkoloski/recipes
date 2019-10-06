@@ -404,6 +404,7 @@
 * Preheat oven to 350 degrees.
 
 ## Instructions
+
 1. Combine meatloaf ingredients in a large bowl, mixing lightly but thoroughly.
 2. Shape mixture into an 8" x 4" loaf on a rack in an aluminum foil-lined broiler pan.
 3. Place on the upper rack of the oven and bake for 35-45 minutes.
@@ -412,3 +413,51 @@
 6. Ensure that a meat thermometer indicates an internal temperature of at least 160 degrees.
 7. Remove from oven and allow to cool for roughly 10 minutes, then cut into slices.
 8. Serve.
+
+# Chicken and Biscuits
+
+## Details
+
+* Preparation time: 60 minutes
+* Yield: 4 servings
+
+## Ingredients
+
+### Chicken and Gravy
+
+| Ingredient        | Amount    |
+|-------------------|-----------|
+| Butter            | 1 stick   |
+| Sweet onion       | 1/2 onion |
+| Chicken breast    | 2 lb.     |
+| Flour             | 1/4 cup   |
+| Chicken stock     | 32 oz.    |
+| Milk              | 1 cup     |
+
+### Biscuits
+
+| Ingredient        | Amount    |
+|-------------------|-----------|
+| Flour             | 2 2/3 cup |
+| Baking powder     | 4 tsp     |
+| Salt              | 1 tsp     |
+| Milk              | 1 1/3 cup |
+| Neutral oil       | 4 Tb      |
+
+## Preparation
+
+* Preheat oven to 425 degrees.
+
+## Instructions
+
+1. Melt butter in large saucepan.
+2. Add chopped sweet onion and chicken breast.
+3. Cook in saucepan for 15-20 minutes or until chicken is thoroughly cooked.
+4. Add flour and mix thoroughly.
+5. Add chicken stock and milk, and stir.
+6. Bring to a boil over low heat, stirring occasionally.
+7. Mix biscuit ingredients into a thick spongy batter.
+8. While mixture boils, add batter by the heaping spoonful from the outside to the center.
+9. After all has been added, cover saucepan and move to oven.
+10. Bake for 10 minutes, then remove lid and bake for an additional 5 minutes.
+11. Serve.
