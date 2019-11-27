@@ -86,7 +86,7 @@ Main courses and other primary dishes.
 
 ## Preparation
 
-* None
+* None.
 
 ## Instructions
 
@@ -547,6 +547,79 @@ Cookies, cakes, and other sweets.
 6. Remove from oven and sprinkle with additional sugar.
 7. Let cool and cut into 6 by 4 pieces.
 8. Serve.
+
+# Pie Crust
+
+## Details
+
+* Preparation time: 30 minutes
+* Yield: 2 crusts (one covered pie or two uncovered pies)
+
+## Ingredients
+
+| Ingredient            | Amount    |
+|-----------------------|-----------|
+| Flour                 | 2 cups    |
+| Salt                  | 3/4 tsp   |
+| Vegetable shortening  | 3/4 cup   |
+| Ice water             | 4 Tb      |
+
+## Preparation
+
+* None.
+
+## Instructions
+
+1. Sift together flour and salt.
+2. Cut in vegetable shortening using a pastry blender until it resembles a coarse sand.
+3. Sprinkle in ice water and toss together.
+4. Form into a ball using a sheet of lightly floured parchment paper then divide into two equal halves.
+5. Roll each ball flat between two sheets of lightly floured parchment paper using a rolling pin.
+6. Peel away the top sheet, pressing gently to heat with hands if the crust begins to rip.
+7. Invert into a pie dish and press to form to the dish.
+8. Carefully peel parchment paper from the crust, using hands to heat as necessary.
+9. Trim crust around edges. Use scraps to patch weak areas and holes using a fork to press gently into the crust.
+10. Repeat to apply crust cover after adding filling.
+
+# Apple Pie
+
+## Details
+
+* Preparation time: 70 minutes
+* Yield: 1 pie
+
+## Ingredients
+
+| Ingredient        | Amount    |
+|-------------------|-----------|
+| Macoun apples     | 3 apples  |
+| Cortlandt apples  | 3 apples  |
+| White sugar       | 1/3 cup   |
+| Brown sugar       | 1/3 cup   |
+| Flour             | 2 Tb      |
+| Lemon juice       | 1 tsp     |
+| Cinnamon          | 1/2 tsp   |
+| Grated lemon zest | 1/2 tsp   |
+| Ground nutmeg     | 1/4 tsp   |
+| Butter            | 1 Tb      |
+| Pie crust         | 2 crusts  |
+
+## Preparation
+
+* Preheat oven to 425 degrees.
+
+## Instructions
+
+1. Prepare crusts and apply bottom crust to pie dish.
+2. Peel, core, and thinly slice apples to 1/4 inch or thinner.
+3. Toss slices in a large bowl with sugar, flour, lemon juice, spices, and zest.
+4. Fill pie crust with mixture.
+5. Cut butter into small pieces and distribute on top of pie filling.
+6. Cover with second crust and pinch edges together to seal.
+7. Cut four 1 1/2 inch vents in the top crust starting from near center and cutting out toward the edge.
+8. Bake pie for 40-50 minutes until golden brown.
+9. Remove from oven and cool slightly.
+10. Serve warm immediately or cool completely and serve later.
 
 # Breakfasts
 
