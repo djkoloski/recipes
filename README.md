@@ -360,6 +360,85 @@ Main courses and other primary dishes.
 3. Spread potatoes in a large roasting pan and place in preheated oven for 25-30 minutes, stirring occasionally.
 4. Serve immediately.
 
+# Stuffing
+
+## Details
+
+* Preparation time: 180 minutes
+* Yield: one 11" x 17" pan
+
+## Ingredients
+
+### Turkey broth
+
+| Ingredient            | Amount    |
+|-----------------------|-----------|
+| Turkey neck           | 1 neck    |
+| Water                 | 1 gallon  |
+| Carrots               | 3 carrots |
+| Celery                | 3 stalks  |
+| Sweet onion           | 1 onion   |
+| Elephant garlic       | 1 clove   |
+| Salt                  | 1 tsp     |
+| Pepper                | 1/2 tsp   |
+
+### Celery and onion
+
+| Ingredient    | Amount    |
+|---------------|-----------|
+| Celery        | 1 whole   |
+| Sweet onion   | 1 whole   |
+| Butter        | 2 sticks  |
+
+### Stuffing
+
+| Ingredient                | Amount        |
+|---------------------------|---------------|
+| Italian white bread       | 2 1/2 loaves  |
+| Pork sausage (uncased)    | 1 1/2 lb      |
+| Eggs                      | 5 eggs        |
+| Butter                    | 1 Tb          |
+
+## Preparation
+
+* Preheat oven to 350 degrees.
+
+## Instructions
+
+### Turkey broth
+
+1. Add turkey neck to water.
+2. Remove ends from carrots and add to broth unpeeled.
+3. Remove ends from celery, cut into thirds, and add to broth.
+4. Peel and cut onion into quarters and add to broth.
+5. Peel and cut garlic into quarters and add to broth.
+6. Add salt and pepper to broth.
+7. Bring broth to a boil and simmer for 60 minutes.
+8. Remove from heat then strain out and dispose of large ingredients.
+
+### Celery and onions
+
+1. Chop entire celery except for the stump.
+2. Coarsely chop onion except for the stump.
+3. Combine celery and onion with butter in a large pan.
+4. Cook mixture over medium-low heat, stirring occasionally for 20-30 minutes until celery is soft.
+
+### Stuffing
+
+1. Slice bread into 1" cubes.
+2. Distribute cubes in thin layers onto 11" x 17" baking sheets.
+3. Dry sheets in oven at 300 degrees for 20-30 minutes each until crispy.
+4. Brown sausage in frying pan.
+5. Transfer the bread to a large mixing bowl.
+6. Add eggs and the celery and onion mixture.
+7. Add browned sausage and 2-3 cups of turkey broth.
+8. Mix thoroughly.
+9. Grease 11" x 17" baking pan with butter.
+10. Distribute uncooked stuffing into baking pan, then push fingers down through stuffing to form air channels.
+11. Cover with tinfoil and bake at 350 degrees for 30 minutes, then remove tinfoil and bake an additional 10-15 minutes.
+12. Remove from oven and cool slightly.
+13. Serve warm.
+
 # Turkey Burgers
 
 ## Details
@@ -393,6 +472,46 @@ Main courses and other primary dishes.
 # Desserts
 
 Cookies, cakes, and other sweets.
+
+# Apple Pie
+
+## Details
+
+* Preparation time: 70 minutes
+* Yield: 1 pie
+
+## Ingredients
+
+| Ingredient        | Amount    |
+|-------------------|-----------|
+| Macoun apples     | 3 apples  |
+| Cortlandt apples  | 3 apples  |
+| White sugar       | 1/3 cup   |
+| Brown sugar       | 1/3 cup   |
+| Flour             | 2 Tb      |
+| Lemon juice       | 1 tsp     |
+| Cinnamon          | 1/2 tsp   |
+| Grated lemon zest | 1/2 tsp   |
+| Ground nutmeg     | 1/4 tsp   |
+| Butter            | 1 Tb      |
+| Pie crust         | 2 crusts  |
+
+## Preparation
+
+* Preheat oven to 425 degrees.
+
+## Instructions
+
+1. Prepare crusts and apply bottom crust to pie dish.
+2. Peel, core, and thinly slice apples to 1/4 inch or thinner.
+3. Toss slices in a large bowl with sugar, flour, lemon juice, spices, and zest.
+4. Fill pie crust with mixture.
+5. Cut butter into small pieces and distribute on top of pie filling.
+6. Cover with second crust and pinch edges together to seal.
+7. Cut four 1 1/2 inch vents in the top crust starting from near center and cutting out toward the edge.
+8. Bake pie for 40-50 minutes until golden brown.
+9. Remove from oven and cool slightly.
+10. Serve warm immediately or cool completely and serve later.
 
 # Blueberry Slump
 
@@ -515,6 +634,44 @@ Cookies, cakes, and other sweets.
 8. Cool in pan on wire rack then cut into pieces.
 9. Serve.
 
+# Pumpkin Pie
+
+## Details
+
+* Preparation time: 70 minutes
+* Yield: 2 pies
+
+## Ingredients
+
+| Ingredient        | Amount    |
+|-------------------|-----------|
+| Canned pumpkin    | 29 oz     |
+| Eggs              | 6 eggs    |
+| Melted butter     | 4 Tb      |
+| Sugar             | 1 cup     |
+| Baking molasses   | 2 Tb      |
+| Flour             | 2 Tb      |
+| Salt              | 1/2 tsp   |
+| Ginger            | 1 tsp     |
+| Cinnamon          | 1 tsp     |
+| Nutmeg            | 1/2 tsp   |
+| Milk              | 2 cups    |
+| Cream             | 1 cup     |
+| Pie crust         | 2 crust   |
+
+## Preparation
+
+* Preheat oven to 450 degrees.
+
+## Instructions
+
+1. Prepare crusts and apply crust to bottoms of pie dishes.
+2. Mix pumkin, eggs, butter, sugar, molasses, flour, salt, ginger, cinnamon, nutmeg, milk, and cream in a large bowl.
+3. Fill pie crust with mixture.
+4. Bake pie for 10 minutes at 450 degrees, then lower oven temperature to 350 degrees and bake an additional 40 minutes.
+5. Remove from oven and chill in refrigerator.
+6. Serve cold.
+
 # Strawberry Shortcake
 
 ## Details
@@ -580,46 +737,6 @@ Cookies, cakes, and other sweets.
 8. Carefully peel parchment paper from the crust, using hands to heat as necessary.
 9. Trim crust around edges. Use scraps to patch weak areas and holes using a fork to press gently into the crust.
 10. Repeat to apply crust cover after adding filling.
-
-# Apple Pie
-
-## Details
-
-* Preparation time: 70 minutes
-* Yield: 1 pie
-
-## Ingredients
-
-| Ingredient        | Amount    |
-|-------------------|-----------|
-| Macoun apples     | 3 apples  |
-| Cortlandt apples  | 3 apples  |
-| White sugar       | 1/3 cup   |
-| Brown sugar       | 1/3 cup   |
-| Flour             | 2 Tb      |
-| Lemon juice       | 1 tsp     |
-| Cinnamon          | 1/2 tsp   |
-| Grated lemon zest | 1/2 tsp   |
-| Ground nutmeg     | 1/4 tsp   |
-| Butter            | 1 Tb      |
-| Pie crust         | 2 crusts  |
-
-## Preparation
-
-* Preheat oven to 425 degrees.
-
-## Instructions
-
-1. Prepare crusts and apply bottom crust to pie dish.
-2. Peel, core, and thinly slice apples to 1/4 inch or thinner.
-3. Toss slices in a large bowl with sugar, flour, lemon juice, spices, and zest.
-4. Fill pie crust with mixture.
-5. Cut butter into small pieces and distribute on top of pie filling.
-6. Cover with second crust and pinch edges together to seal.
-7. Cut four 1 1/2 inch vents in the top crust starting from near center and cutting out toward the edge.
-8. Bake pie for 40-50 minutes until golden brown.
-9. Remove from oven and cool slightly.
-10. Serve warm immediately or cool completely and serve later.
 
 # Breakfasts
 
