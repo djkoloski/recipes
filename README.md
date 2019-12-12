@@ -357,8 +357,9 @@ Main courses and other primary dishes.
 
 1. Grind rosemary into a fine powder using a spice grinder or mortar and pestle.
 2. Quarter potatoes and toss with other ingredients until evenly coated.
-3. Spread potatoes in a large roasting pan and place in preheated oven for 25-30 minutes, stirring occasionally.
-4. Serve immediately.
+3. Spread potatoes in a large roasting pan, cover, and place in preheated oven for 40-60 minutes, stirring occasionally.
+4. Remove from oven and allow to cool while covered for 10-15 minutes.
+5. Serve immediately.
 
 # Stuffing
 
