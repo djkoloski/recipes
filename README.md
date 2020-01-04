@@ -160,7 +160,7 @@ Main courses and other primary dishes.
 | Eggs                          | 2 eggs    |
 | Flour                         | 1 cup     |
 | Seasoned Breadcrumbs          | 1 cup     |
-| Pasta Sauce                   | 2 cups    |
+| Marinara Sauce                | 2 cups    |
 | Shredded Mozzarella Cheese    | 2 cups    |
 
 ## Preparation
@@ -336,7 +336,7 @@ Main courses and other primary dishes.
 
 ## Details
 
-* Preparation time: 30-40 minutes
+* Preparation time: 60 minutes
 * Yield: 4 cups
 
 ## Ingredients
@@ -357,9 +357,10 @@ Main courses and other primary dishes.
 
 1. Grind rosemary into a fine powder using a spice grinder or mortar and pestle.
 2. Quarter potatoes and toss with other ingredients until evenly coated.
-3. Spread potatoes in a large roasting pan, cover, and place in preheated oven for 40-60 minutes, stirring occasionally.
-4. Remove from oven and allow to cool while covered for 10-15 minutes.
-5. Serve immediately.
+3. Spread potatoes in a large roasting pan, cover, and place in preheated oven for 45 minutes, stirring occasionally.
+4. Uncover and bake for an additional 10 minutes.
+5. Remove from oven and allow to cool while covered for 10-15 minutes.
+6. Serve immediately.
 
 # Stuffing
 
