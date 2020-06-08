@@ -636,6 +636,63 @@ Cookies, cakes, and other sweets.
 8. Cool in pan on wire rack then cut into pieces.
 9. Serve.
 
+# Milk Chocolate Cake
+
+## Details
+
+* Preparation time: 90 minutes
+* Yield: 1 two-layer cake
+
+## Ingredients
+
+### Cake
+
+| Ingredient                     | Amount             |
+|--------------------------------|--------------------|
+| Crisco                         | 1/2 cup            |
+| Butter                         | 1/4 cup            |
+| Sugar                          | 2 cups             |
+| Eggs                           | 4 eggs             |
+| Flour                          | 2 1/2 cups         |
+| Baking powder                  | 2 tsp              |
+| Salt                           | 1 tsp              |
+| Milk                           | 1 cup              |
+| Vanilla                        | 2 tsp              |
+| Unsweetened baking chocolate   | 2 oz (2 squares)   |
+
+### Icing
+
+| Ingredient                     | Amount             |
+|--------------------------------|--------------------|
+| Confectionary sugar            | 3 cups             |
+| Butter                         | 2/3 cup            |
+| Eggs                           | 2 eggs             |
+| Unsweetened baking chocolate   | 4 oz (4 squares)   |
+| Vanilla                        | 4 tsp              |
+
+## Preparation
+
+* Preheat oven to 350 degrees.
+* Grease andd flour two round cake pans.
+
+## Instructions
+
+1. Cream shortening and butter together in a large bowl.
+2. Add sugar gradually.
+3. Separate eggs and add beaten egg yolks.
+4. Mix remaining dry ingredients together in a separate bowl.
+5. Add dry ingredients alternately with milk.
+6. Melt and add baking chocolate.
+7. Add vanilla and beat.
+8. Beat egg whites in separate bowl and fold into batter.
+9. Pour evenly into two greased and floured round cake pans.
+10. Bake in oven for 35 minutes.
+11. Beat together icing ingredients in a bowl.
+12. When cakes are finished, remove from oven and allow to cool completely.
+13. Invert pans to remove cakes and join with a layer of icing.
+14. Apply icing to outside of cake.
+15. Serve.
+
 # Pumpkin Pie
 
 ## Details
