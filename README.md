@@ -213,6 +213,33 @@ Main courses and other primary dishes.
 5. Remove from heat and allow to cool.
 6. Serve alone or with cooked white rice and shredded cheese.
 
+# Cranberry Relish
+
+## Details
+
+* Preparation time: 15-20 minutes
+* Yield: 4 cups
+
+## Ingredients
+
+| Ingredient               | Amount    |
+|--------------------------|-----------|
+| Cranberries              | 16 oz     |
+| Sweet Gala Apples        | 2 apples  |
+| Naval Orange             | 1 orange  |
+| Granulated White Sugar   | 3/4 cup   |
+
+## Preparation
+
+* None
+
+## Instructions
+
+1. Cut ends off naval orange and slice into two to four equally sized pieces.
+2. Cut apples into two to four equally sized pieces.
+3. Process ingredients in food processor until mixture reaches the consistency of relish. Break into two batches if necessary.
+4. Serve cool.
+
 # Ham Chowder
 
 ## Details
