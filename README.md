@@ -332,6 +332,55 @@ Main courses and other primary dishes.
 7. Remove from oven and allow to cool for roughly 10 minutes, then cut into slices.
 8. Serve.
 
+# Pizza
+
+## Details
+
+* Preparation time: 2 hours
+* Yield: 2 sheet pizzas
+
+## Ingredients
+
+### Dough
+
+| Ingredient   | Amount       |
+|--------------|--------------|
+| Flour        | 4 cups       |
+| Dry Yeast    | 1/2 packet   |
+| Salt         | 1/4 Tb       |
+| Water        | 1 1/2 cups   |
+| Olive Oil    | 1 Tb         |
+
+### Toppings
+
+* Onion (minced)
+* Oregano
+* Olive Oil
+* Salt
+* Parmesan cheese
+* Mozerella cheese (grated)
+
+## Preparation
+
+* Preheat oven to 425 degrees.
+
+## Instructions
+
+1. Mix dry dough ingredients together in a large bowl.
+2. Combine water and oil in separate bowl and heat until warm to the touch.
+3. Form pit in center of dry ingredients and pour wet ingredients into center.
+4. Mix ingredients until thoroughly combined and sticky.
+5. Turn out onto moderately floured surface and knead 10-15 minutes until dough is smooth and no longer sticky.
+6. Lightly coat dough with oil and place into oiled glass bowl.
+7. Cover bowl with wrap and place in warm area until roughly doubled in size.
+8. Remove dough from bowl and punch down.
+9. Cut into two equal pieces if making full-sheet pizzas, or four equal pieces for personal sized pizzas.
+10. Form dough into circle or sheet and cover in spices and oil.
+11. Proof again in warm area for 10 minutes.
+12. Cover pizza in sauce and toppings, then bake on sheet or stone for 15-20 minutes.
+13. Remove from oven and cut just before cool enough to eat.
+14. Serve immediately.
+
 # Roasted Potatoes
 
 ## Details
