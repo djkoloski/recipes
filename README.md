@@ -384,8 +384,8 @@ Main courses and other primary dishes.
 * Oregano
 * Olive Oil
 * Salt
-* Parmesan cheese
-* Mozerella cheese (grated)
+* Parmesan cheese (grated)
+* Mozzarella cheese (grated)
 
 ## Preparation
 
