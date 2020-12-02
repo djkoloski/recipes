@@ -749,7 +749,7 @@ Cookies, cakes, and other sweets.
 ## Preparation
 
 * Preheat oven to 350 degrees.
-* Grease andd flour two round cake pans.
+* Grease and flour two round cake pans.
 
 ## Instructions
 
