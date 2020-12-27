@@ -240,6 +240,84 @@ Main courses and other primary dishes.
 3. Process ingredients in food processor until mixture reaches the consistency of relish. Break into two batches if necessary.
 4. Serve cool.
 
+# Filet Mignon
+
+## Details
+
+* Preparation time: ~180 minutes
+* Yield: 12 steaks
+* Best served with garlic mashed potatoes
+
+## Ingredients
+
+### Filet
+
+| Ingredient            | Amount            |
+|-----------------------|-------------------|
+| Filet Mignon          | 12 inches         |
+| Salt                  | 4-6 tsp           |
+| Pepper                | 4-6 tsp           |
+| Unsalted Butter       | 1 stick           |
+
+### Shallot Butter
+
+| Ingredient            | Amount            |
+|-----------------------|-------------------|
+| Shallot               | 2 whole           |
+| Garlic                | 2 cloves          |
+| Parsley               | 4 Tb              |
+| Unsalted Butter       | 2 stick           |
+| Salt                  | 1/2 tsp           |
+| Pepper                | 1/2 tsp           |
+
+## Preparation
+
+* Trim fat and skin off of filet. Tie off every 1 1/2 inch of the 12 inch filet.
+
+## Instructions
+
+### Filet
+
+1. Rub filet with 4-6 tsp kosher salt. Let sit at room temp for 1 hour. Pre-heat oven to 300 degrees.
+2. Dry filet with paper towels. Rub with softened unsalted butter. Sprinkle filet with fresh ground pepper 
+3. Place filet on cookie drying rack on a cookie pan. Cook at 300 degrees for 150-180 minutes.
+4. Remove from oven when filet is within 10 degrees of being done. (135°F is done for medium-rare, 145°F for medium)
+5. Tent filet (put aluminum foil over filet in the shape of a tent), Let filet sit for 10 minutes.
+6. Slice into 1 to 1 1/2 inch pieces and add shallot butter.
+
+### Shallot Butter
+
+1. Mix 1 stick unsalted softened butter, 1 whole shallot, 2 cloves garlic, 2TB parsley, 1/2 tsp table salt, 1/2 tsp pepper in bowl
+
+# Garlic Mashed Potatoes
+
+## Details
+
+* Made to be served with filet mignon recipe
+
+## Ingredients
+
+| Ingredient            | Amount            |
+|-----------------------|-------------------|
+| Garlic                | 2 heads           |
+| Goldeen potatoes      | 5 lbs             |
+| Butter                | 2 sticks          |
+| Half and half         | 2 cups            |
+| Salt                  | 3 tsp             |
+| Pepper                | 3 tsp             |
+
+## Preparation
+
+* None
+
+## Instructions
+
+1. Fry garlic in a dry pan on low heat. Roast until slightly brown.
+2. Let garlic cool, cut off woody end and squeeze out of skin.
+3. Quarter potatoes and boil until soft (with skins on).
+4. Drain potatoes. 
+5. Add garlic, butter, half & half, salt, and pepper.
+
 # Ham Chowder
 
 ## Details
