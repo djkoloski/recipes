@@ -244,9 +244,8 @@ Main courses and other primary dishes.
 
 ## Details
 
-* Preparation time: ~180 minutes
-* Yield: 12 steaks
-* Best served with garlic mashed potatoes
+* Preparation time: 180 minutes
+* Yield: 8-12 steaks
 
 ## Ingredients
 
@@ -255,54 +254,52 @@ Main courses and other primary dishes.
 | Ingredient            | Amount            |
 |-----------------------|-------------------|
 | Filet Mignon          | 12 inches         |
-| Salt                  | 4-6 tsp           |
-| Pepper                | 4-6 tsp           |
+| Kosher Salt           | 5 tsp             |
+| Freshly Ground Pepper | 5 tsp             |
 | Unsalted Butter       | 1 stick           |
 
 ### Shallot Butter
 
 | Ingredient            | Amount            |
 |-----------------------|-------------------|
-| Shallot               | 2 whole           |
+| Shallots              | 2 whole           |
 | Garlic                | 2 cloves          |
 | Parsley               | 4 Tb              |
-| Unsalted Butter       | 2 stick           |
+| Unsalted Butter       | 2 sticks          |
 | Salt                  | 1/2 tsp           |
 | Pepper                | 1/2 tsp           |
 
 ## Preparation
 
+* Preheat oven to 300 degrees.
 * Trim fat and skin off of filet. Tie off every 1 1/2 inch of the 12 inch filet.
 
 ## Instructions
 
-### Filet
-
-1. Rub filet with 4-6 tsp kosher salt. Let sit at room temp for 1 hour. Pre-heat oven to 300 degrees.
-2. Dry filet with paper towels. Rub with softened unsalted butter. Sprinkle filet with fresh ground pepper 
-3. Place filet on cookie drying rack on a cookie pan. Cook at 300 degrees for 150-180 minutes.
-4. Remove from oven when filet is within 10 degrees of being done. (135°F is done for medium-rare, 145°F for medium)
-5. Tent filet (put aluminum foil over filet in the shape of a tent), Let filet sit for 10 minutes.
-6. Slice into 1 to 1 1/2 inch pieces and add shallot butter.
-
-### Shallot Butter
-
-1. Mix 1 stick unsalted softened butter, 1 whole shallot, 2 cloves garlic, 2TB parsley, 1/2 tsp table salt, 1/2 tsp pepper in bowl
+1. Rub filet with kosher salt and let sit at room temperature for 1 hour.
+2. Dry filet with paper towels then rub with softened unsalted butter. Sprinkle filet with freshly ground pepper.
+3. Place filet in baking pan on wire rack and bake for 150-180 minutes, checking temperature regularly when nearing completion.
+4. When filet is within 10 degrees of being done (135°F is done for medium-rare, 145°F for medium), remove from oven.
+5. Tent filet with aluminum foil and let sit for 10 minutes.
+6. Thoroughly mix shallot butter ingredients in bowl.
+7. Slice into 1 to 1 1/2 inch steaks and top with shallot butter.
+8. Serve.
 
 # Garlic Mashed Potatoes
 
 ## Details
 
-* Made to be served with filet mignon recipe
+* Preparation time: 30 minutes
+* Yield: 5 pounds
 
 ## Ingredients
 
 | Ingredient            | Amount            |
 |-----------------------|-------------------|
 | Garlic                | 2 heads           |
-| Goldeen potatoes      | 5 lbs             |
+| Golden potatoes       | 5 lbs             |
 | Butter                | 2 sticks          |
-| Half and half         | 2 cups            |
+| Half and half cream   | 2 cups            |
 | Salt                  | 3 tsp             |
 | Pepper                | 3 tsp             |
 
@@ -312,11 +309,11 @@ Main courses and other primary dishes.
 
 ## Instructions
 
-1. Fry garlic in a dry pan on low heat. Roast until slightly brown.
-2. Let garlic cool, cut off woody end and squeeze out of skin.
-3. Quarter potatoes and boil until soft (with skins on).
-4. Drain potatoes. 
-5. Add garlic, butter, half & half, salt, and pepper.
+1. Fry garlic in a dry pan on low heat until lightly browned.
+2. Remove from heat and cool, then cut off woody end and squeeze out of skin.
+3. Quarter potatoes and boil with skins on until soft.
+4. Drain potatoes and combine all ingredients, then mix until fluffy and thoroughly combined.
+5. Serve.
 
 # Ham Chowder
 
