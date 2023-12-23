@@ -750,6 +750,45 @@ Cookies, cakes, and other sweets.
 9. Cut into 9 equal squares.
 10. Serve.
 
+# Christmas Sugar Cookies
+
+## Details
+
+* Preparation time: 180 minutes
+* Yield: 48 cookies
+
+## Ingredients
+
+### Cookies
+
+| Ingredient      | Amount                   |
+|-----------------|--------------------------|
+| Butter          | 3/4 cup (1 1/2 sticks)   |
+| Eggs            | 2 eggs                   |
+| Sugar           | 1 1/2 cups               |
+| Vanilla extract | 1 Tb                     |
+| Salt            | 1 tsp                    |
+| Baking powder   | 2 tsp                    |
+| Flour           | 3 cups                   |
+
+## Preparation
+
+* Preheat oven to 350 degrees in convection mode (only when preparing to bake).
+
+## Instructions
+
+1. Soften butter completely.
+2. Cream together butter and sugar, then cream in eggs. Do not over-mix.
+3. Beat in vanilla extract, salt, baking powder, and flour in several batches. The dough should be slightly sticky.
+4. Collect batter in a ball, cover with plastic wrap, and place in the refrigerator for at least an hour.
+5. Line baking sheets with parchment paper.
+6. Preheat oven to 350 degrees with convection enabled.
+7. Dust work surface with powdered sugar and roll out the dough.
+8. Cut out shapes and place onto baking sheets. Collect the dough trimmings together then repeat rolling out and cutting cookies.
+9. Bake cookies for ten minutes, then rotate sheets in the oven and bake for another ten minutes. Cookies are done when the edges just barely start to brown.
+10. Cool cookies thoroughly, then ice and allow icing to set overnight.
+11. Serve.
+
 # Fudge Brownies
 
 ## Details
