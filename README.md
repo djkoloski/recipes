@@ -240,6 +240,60 @@ Main courses and other primary dishes.
 3. Process ingredients in food processor until mixture reaches the consistency of relish. Break into two batches if necessary.
 4. Serve cool.
 
+# Creamy Chicken Pasta
+
+## Details
+
+* Preparation time: 45 minutes
+* Yield: 2 quarts
+* Requires an Instant Pot or other multi-function pressure cooker.
+
+## Ingredients
+
+### Creamy Chicken Pasta
+
+| Ingredient               | Amount    |
+|--------------------------|-----------|
+| Chicken Breast           | 1 lb      |
+| Short-Cut Pasta          | 1 lb      |
+| Olive Oil                | 2 Tb      |
+| Spice Mix                | 1 Tb      |
+| Salt                     | 1 tsp     |
+| Marinara Sauce           | 24 oz.    |
+| Shredded Parmesan Cheese | 1 cup     |
+| Heavy Whipping Cream     | 1 1/2 cup |
+| Water                    | 2 1/2 cup |
+
+### Spice mix
+
+| Ingredient         | Amount    |
+|--------------------|-----------|
+| Basil              | 1/2 tsp   |
+| Parsley            | 1/2 tsp   |
+| Oregano            | 1/2 tsp   |
+| Black Pepper       | 1/2 tsp   |
+| Thyme              | 1/4 tsp   |
+| Rosemary           | 1/4 tsp   |
+| Crushed Red Pepper | 1/4 tsp   |
+| Garlic Powder      | 1/4 tsp   |
+
+## Preparation
+
+* None
+
+## Instructions
+
+1. Set Instant Pot to sautee and add olive oil.
+2. Cut chicken breast into roughly 1" x 1" cubes.
+3. Cook chicken until little to no pink remains, then cancel sautee mode.
+4. Prepare spice mix by grinding spices together with a mortar and pestle.
+4. Add spice mix and salt to pot, then mix thoroughly.
+5. Layer pasta and marinara sauce, and then add water.
+6. Seal and pressure cook for 6-10 minutes.
+7. Perform a rapid depressurization.
+7. Add cheese and heavy cream, then mix thoroughly.
+8. Serve warm.
+
 # Filet Mignon
 
 ## Details
